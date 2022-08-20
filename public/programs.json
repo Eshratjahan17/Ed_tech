@@ -1,0 +1,22 @@
+[
+  {
+    "picture": "https://i.ibb.co/Sf3fh2q/admission.png",
+    "name": "Admission Test"
+  },
+  {
+    "picture": "https://i.ibb.co/ysYQkBk/inter.png",
+    "name": "Intermediate"
+  },
+  {
+    "picture": "https://i.ibb.co/VJYC4B1/Untitled.png",
+    "name": "Primary"
+  },
+  {
+    "picture": "https://i.ibb.co/0sdNdJQ/job.png",
+    "name": "Job Preparation"
+  },
+  {
+    "picture": "https://i.ibb.co/bJPMxXM/skill.png",
+    "name": "Skill development"
+  }
+]
