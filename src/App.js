@@ -5,6 +5,7 @@ import Courses from "./Components/Courses";
 import Home from './Components/Home';
 import Login from "./Components/Login";
 import Programs from "./Components/Programs";
+import Services from "./Components/Services/Services";
 import Signup from "./Components/Signup";
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/Courses" element={<Courses></Courses>}></Route>
+        <Route path="/Services" element={<Services></Services>}></Route>
         <Route path="/Programs" element={<Programs></Programs>}></Route>
         <Route path="/Contact" element={<Contact></Contact>}></Route>
         <Route path="/Login" element={<Login></Login>}></Route>
